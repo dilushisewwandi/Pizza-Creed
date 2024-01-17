@@ -1,0 +1,1 @@
+This project is a backend web console application that is implemented by using Spring Boot. It simplifies pizza management via a website and Rest API. It introduces a practical shopping basket developed using Rest API. Easily create, add, view, checkout, and clear items from your basket using straightforward and user-friendly Rest API calls. 
